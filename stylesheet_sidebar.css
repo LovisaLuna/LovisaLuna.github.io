@@ -1,0 +1,18 @@
+body {
+    background-color: darkolivegreen;
+    color: ivory;
+    font-size: 1.1em;
+}
+h1 {
+    color: black;
+}
+a:link {
+  color: linen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: antiquewhite;
+  text-decoration: none;
+}
