@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Research | Lovisa Luna</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <nav class="navigation">
+
+            <a class="site-name" href="index.html">Lovisa Luna</a>
+
+            <div class="nav-links">
+                <a href="research.html">Research</a>
+                <a href="publications.html">Publications</a>
+                <a href="teaching.html">Teaching</a>
+                <a href="outreach.html">Outreach</a>
+                <a href="cv.html">CV</a>
+            </div>
+
+        </nav>
+    </header>
+
+    <main>
+
+        <section class="page-intro">
+            <p class="eyebrow">Research</p>
+            <h1>Research</h1>
+            <p>
+                Research content will go here.
+            </p>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <p>Lovisa Luna · Uppsala University</p>
+    </footer>
+
+</body>
+</html>
