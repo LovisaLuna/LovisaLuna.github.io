@@ -287,6 +287,16 @@ font-size: 0.75rem;
 
 }
 
+  /* =========================================================
+   Research page — section separators
+   ========================================================= */
+
+.research-statement,
+.research-themes,
+.selected-publications {
+    border-top: 1px solid #d8d0c2;
+}
+
 /* =========================================================
 Mobile
 ========================================================= */
@@ -340,14 +350,6 @@ main {
     gap: 1rem;
 }
 
-  /* =========================================================
-   Research page — section separators
-   ========================================================= */
 
-.research-statement,
-.research-themes,
-.selected-publications {
-    border-top: 1px solid #d8d0c2;
-}
 
 
