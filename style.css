@@ -287,6 +287,18 @@ font-size: 0.75rem;
 
 }
 
+.page-question {
+    max-width: 850px;
+
+    margin: 2rem 0 0;
+
+    color: #4b4540;
+
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    font-style: italic;
+    line-height: 1.35;
+}
+
 /* =========================================================
    Publications
    ========================================================= */
