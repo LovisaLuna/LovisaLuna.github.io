@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Teaching | Lovisa Luna</title>
+
+    <meta name="description" content="Teaching experience and teaching philosophy of Lovisa Luna, PhD student in Machine Learning at Uppsala University.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <nav class="navigation">
+
+            <a class="site-name" href="index.html">Lovisa Luna</a>
+
+            <div class="nav-links">
+                <a href="research.html">Research</a>
+                <a href="publications.html">Publications</a>
+                <a href="teaching.html">Teaching</a>
+                <a href="outreach.html">Outreach</a>
+                <a href="cv.html">CV</a>
+            </div>
+
+        </nav>
+    </header>
+
+
+    <main>
+
+        <!-- Introduction -->
+        <section class="page-intro">
+
+            <h1>Teaching</h1>
+
+            <p class="page-lead">
+                Helping students engage actively with technical subjects.
+            </p>
+
+        </section>
+
+
+        <!-- Teaching philosophy -->
+        <section class="teaching-philosophy">
+
+            <div class="section-heading">
+                <p class="eyebrow">Teaching philosophy</p>
+                <h2>Learning through discussion and exploration</h2>
+            </div>
+
+            <div class="teaching-philosophy-text">
+
+                <p>
+                    I see learning as an active and collaborative process.
+                    Discussion, experimentation, and opportunities to work
+                    through problems together can help students develop both
+                    understanding and confidence. I therefore aim to create
+                    teaching environments where students are encouraged to ask
+                    questions, test ideas, and engage actively with the material.
+                </p>
+
+                <p>
+                    I also believe that effective teaching starts from where
+                    students are. Students come with different backgrounds,
+                    experiences, and ways of approaching a problem, and I try
+                    to meet them at their current level while helping them
+                    develop further. As I continue developing as a teacher,
+                    I am particularly interested in finding ways to make
+                    technical subjects accessible without sacrificing depth.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- Teaching experience -->
+        <section class="teaching-experience">
+
+            <div class="section-heading">
+                <p class="eyebrow">Teaching experience</p>
+                <h2>Teaching and academic training</h2>
+            </div>
+
+            <div class="teaching-list">
+
+                <article class="teaching-item">
+
+                    <p class="teaching-meta">
+                        Uppsala University
+                    </p>
+
+                    <h3>Teaching assistant</h3>
+
+                    <p>
+                        Teaching assistant for several courses at Uppsala
+                        University, supporting students through exercises,
+                        discussions, and course activities.
+                    </p>
+
+                </article>
+
+
+                <article class="teaching-item">
+
+                    <p class="teaching-meta">
+                        2026
+                    </p>
+
+                    <h3>Guest lecture — AI Ethics in Statistical Machine Learning</h3>
+
+                    <p>
+                        Guest lecture on AI ethics in statistical machine
+                        learning, approximately 20–30 minutes.
+                    </p>
+
+                </article>
+
+
+                <article class="teaching-item">
+
+                    <p class="teaching-meta">
+                        2024–2025
+                    </p>
+
+                    <h3>Subject reviewer — Master's theses</h3>
+
+                    <p>
+                        Subject reviewer for two Master's theses at Uppsala
+                        University.
+                    </p>
+
+                </article>
+
+
+                <article class="teaching-item">
+
+                    <p class="teaching-meta">
+                        7.5 credits
+                    </p>
+
+                    <h3>Academic Teacher Training</h3>
+
+                    <p>
+                        Completed 7.5 credits of academic teacher training.
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer class="site-footer">
+        <p>Lovisa Luna Eriksson · Uppsala University · lovisa.eriksson@it.uu.se</p>
+    </footer>
+
+</body>
+</html>
