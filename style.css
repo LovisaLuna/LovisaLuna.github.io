@@ -191,6 +191,35 @@ color: #a65d43;
 }
 
 /* =========================================================
+   CV
+   ========================================================= */
+
+.cv-intro {
+    padding-bottom: 4rem;
+}
+
+.cv-download {
+    display: inline-block;
+
+    margin-top: 2rem;
+
+    color: #713a3a;
+
+    text-decoration: none;
+
+    border-bottom: 1px solid #b18a45;
+
+    padding-bottom: 0.2rem;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.85rem;
+}
+
+.cv-download:hover {
+    color: #a65d43;
+}
+
+/* =========================================================
    Photograph
    ========================================================= */
 
