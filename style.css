@@ -416,6 +416,123 @@ font-size: 0.75rem;
     color: #a65d43;
 }
 
+/* =========================================================
+   Teaching
+   ========================================================= */
+
+.teaching-philosophy {
+    display: grid;
+    grid-template-columns: 0.8fr 1.2fr;
+    gap: 5rem;
+
+    padding: 5rem 0 6rem;
+
+    border-top: 1px solid #d8d0c2;
+}
+
+.teaching-philosophy h2,
+.teaching-experience h2 {
+    margin: 0;
+
+    font-size: 2.4rem;
+    font-weight: normal;
+    line-height: 1.2;
+}
+
+.teaching-philosophy-text {
+    max-width: 680px;
+
+    padding-left: 2rem;
+
+    border-left: 3px solid #713a3a;
+}
+
+.teaching-philosophy-text p {
+    margin: 0 0 1.5rem;
+
+    font-size: 1.15rem;
+    line-height: 1.7;
+}
+
+.teaching-philosophy-text p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* =========================================================
+   Teaching experience
+   ========================================================= */
+
+.teaching-experience {
+    display: grid;
+    grid-template-columns: 0.8fr 1.2fr;
+    gap: 5rem;
+
+    padding: 5rem 0 7rem;
+
+    border-top: 1px solid #d8d0c2;
+}
+
+.teaching-list {
+    border-top: 1px solid #d8d0c2;
+}
+
+.teaching-item {
+    padding: 2rem 0;
+
+    border-bottom: 1px solid #d8d0c2;
+}
+
+.teaching-meta {
+    margin: 0 0 0.7rem;
+
+    color: #713a3a;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.teaching-item h3 {
+    max-width: 700px;
+
+    margin: 0 0 0.8rem;
+
+    font-size: 1.45rem;
+    font-weight: normal;
+    line-height: 1.35;
+}
+
+.teaching-item p:not(.teaching-meta) {
+    max-width: 650px;
+
+    margin: 0;
+
+    color: #5c554e;
+}
+
+
+/* =========================================================
+   Teaching — mobile
+   ========================================================= */
+
+@media (max-width: 750px) {
+
+    .teaching-philosophy,
+    .teaching-experience {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+
+        padding: 4rem 0 5rem;
+    }
+
+    .teaching-philosophy-text {
+        padding-left: 1.25rem;
+    }
+
+}
+
   /* =========================================================
    Research page — section separators
    ========================================================= */
